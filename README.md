@@ -18,7 +18,7 @@ A simple and interactive To-Do List application built using HTML, CSS, and JavaS
 - JavaScript
 
 ##  Screenshot
-()
+(Screenshot 2026-04-23 072533.png)
 
 ##  Author
 Pitam Ghosh
