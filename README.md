@@ -1,13 +1,24 @@
-# To-Do List Web App
+# 📝 To-Do List Web App
 
-This is a simple To-Do List application built using HTML, CSS, and JavaScript.
+A simple and interactive To-Do List application built using HTML, CSS, and JavaScript.
 
-## Features
+##  Live Demo
+ https://pitamghosh.github.io/synent-task5-todo-pitam/
+
+##  Features
 - Add tasks
 - Delete tasks
-- Mark as completed
+- Mark tasks as completed
 - Filter tasks (All / Completed / Pending)
-- Data stored in localStorage
+- Data stored using localStorage (persistent)
 
-## Author
+##  Tech Stack
+- HTML
+- CSS
+- JavaScript
+
+##  Screenshot
+()
+
+##  Author
 Pitam Ghosh
